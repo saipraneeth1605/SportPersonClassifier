@@ -26,4 +26,4 @@ Fire up the Flask server from your Python file. The server is like a conductor, 
 
 ### `Open app.html in Your Browser! 🌐`
 
-Point your browser to the local HTML file, just like enjoying a private concert. Your SportsPersonClassifier is ready to showcase its predictions.(in my case i can open by [file:///C:/Users/PRANEETH/Desktop/SportPersonClassifier/UI/app.html](this))
+Point your browser to the local HTML file, just like enjoying a private concert. Your SportsPersonClassifier is ready to showcase its predictions.(in my case i can open in my folder)
